@@ -2,6 +2,8 @@
 
 ## Init project
 
+_Use Python 3.12 for orange and Python 3.13 for jupyter_
+
 ```bash
 python -m venv <route>
 
